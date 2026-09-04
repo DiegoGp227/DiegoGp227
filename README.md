@@ -115,7 +115,7 @@ El proyecto contempla tanto la experiencia pública para los participantes como 
 * Aplicación y servicios containerizados mediante Docker.
 * Despliegue sobre infraestructura propia.
 
-[**Ver repositorio →**](https://github.com/DiegoGp227)
+[**Ver repositorio →**](https://github.com/DiegoGp227) <br>
 [**Ver proyecto →**](crit-virgilium.devdiego.work)
 
 ---
@@ -146,7 +146,7 @@ Permite organizar proyectos, hacer seguimiento del progreso y gestionar tareas m
 * Eliminación en cascada mediante Prisma.
 * Entorno de desarrollo completamente containerizado con Docker Compose.
 
-[**Ver repositorio →**](https://github.com/DiegoGp227/skemap)
+[**Ver repositorio →**](https://github.com/DiegoGp227/skemap) <br>
 [**Ver proyecto →**](https://skemap.devdiego.work/auth)
 
 ---
@@ -179,7 +179,7 @@ TIMES_PER_WEEK
 * Backend organizado mediante módulos por funcionalidad.
 * Autenticación stateless mediante JWT.
 
-[**Ver repositorio →**](https://github.com/DiegoGp227/fallenway)
+[**Ver repositorio →**](https://github.com/DiegoGp227/fallenway) <br>
 [**Ver proyecto →**](https://fallenway.devdiego.work/auth)
 ---
 
@@ -233,18 +233,6 @@ No considero que una arquitectura sea mejor por tener más capas, abstracciones 
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DiegoGp227&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGp227&layout=compact&hide_border=true&theme=transparent" height="170" />
-
-</div>
-
----
-
 <div align="center">
 
 ### ¿Construimos algo?
@@ -252,10 +240,5 @@ No considero que una arquitectura sea mejor por tener más capas, abstracciones 
 <a href="mailto:diego.gp227@gmail.com">Email</a>
   ·   <a href="https://www.linkedin.com/in/diego-gongora-p/">LinkedIn</a>
 
-</div>
-
-<h3 align="left">📊 Contribuciones</h3>
-<div align="center">
-  <img src="https://ghchart.rshah.org/DiegoGp227" alt="Contribuciones de GitHub" />
 </div>
 
