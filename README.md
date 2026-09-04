@@ -193,43 +193,23 @@ Portfolio personal construido con **Astro**, enfocado en rendimiento, simplicida
 
 ---
 
-## 🧠 Cómo desarrollo
+🧠 Cómo Desarrollo
 
-Me interesa resolver problemas desde el diseño hasta el despliegue.
+Antes de pensar en una solución, intento entender qué problema estoy resolviendo, por qué existe y cuáles son sus restricciones.
 
-```text
+A partir de ahí, investigo y evalúo diferentes alternativas antes de decidir cómo abordarlo. Prefiero invertir tiempo en entender y planear correctamente una solución que empezar a desarrollar sobre la marcha y corregir el rumbo después.
+
        Entender el problema
                 ↓
-        Diseñar la solución
+       Investigar alternativas
                 ↓
-      Separar responsabilidades
+       Evaluar las opciones
                 ↓
-       Implementar con tipos
+        Planear la solución
                 ↓
-     Validar datos y permisos
+           Desarrollar
                 ↓
-       Optimizar donde importa
-                ↓
-           Desplegar
-```
-
-Al tomar decisiones técnicas intento priorizar:
-
-**Simplicidad → claridad → mantenibilidad → rendimiento**
-
-No considero que una arquitectura sea mejor por tener más capas, abstracciones o tecnologías. La complejidad tiene que estar justificada por el problema.
-
----
-
-## 📚 Actualmente aprendiendo
-
-* **Software Architecture**
-* **System Design**
-* **Advanced React**
-* **TypeScript**
-* **Testing**
-* **API Design**
-* **Cloud Infrastructure**
+       Validar y ajustar
 
 ---
 
