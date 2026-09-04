@@ -115,7 +115,8 @@ El proyecto contempla tanto la experiencia pública para los participantes como 
 * Aplicación y servicios containerizados mediante Docker.
 * Despliegue sobre infraestructura propia.
 
-[**Ver proyecto →**](https://github.com/DiegoGp227)
+[**Ver repositorio →**](https://github.com/DiegoGp227)
+[**Ver proyecto →**](crit-virgilium.devdiego.work)
 
 ---
 
@@ -146,6 +147,7 @@ Permite organizar proyectos, hacer seguimiento del progreso y gestionar tareas m
 * Entorno de desarrollo completamente containerizado con Docker Compose.
 
 [**Ver repositorio →**](https://github.com/DiegoGp227/skemap)
+[**Ver proyecto →**](https://skemap.devdiego.work/auth)
 
 ---
 
@@ -178,13 +180,14 @@ TIMES_PER_WEEK
 * Autenticación stateless mediante JWT.
 
 [**Ver repositorio →**](https://github.com/DiegoGp227/fallenway)
-
+[**Ver proyecto →**](https://fallenway.devdiego.work/auth)
 ---
 
 ### 🌐 Portfolio
 
 Portfolio personal construido con **Astro**, enfocado en rendimiento, simplicidad y presentación de proyectos.
 
+[**Ver portafolio →**](https://portfolio.devdiego.work/)
 **Stack:**
 `Astro` `TypeScript` `CSS`
 
